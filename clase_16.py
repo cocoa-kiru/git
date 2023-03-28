@@ -14,3 +14,5 @@
 
 # Para pasar del staging al repository, se usa 'git commit -m "Mensaje descriptivo del cambio"'. El mensaje es util para saber
 # que modificacion se realizo.
+
+# Con 'git merge' me traigo lo que este en una rama a la rama en la que estoy.
